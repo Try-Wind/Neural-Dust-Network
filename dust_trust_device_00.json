@@ -1,0 +1,12 @@
+{
+  "device_01": {
+    "public_key": "3fb75492f8929415c52d26bd9b1e6b9c13cfdecddb6234ef923d0b669bba7df4",
+    "added": "2025-08-15T18:03:47.917381",
+    "fingerprint": "a64c4ef9ed2ec524"
+  },
+  "device_02": {
+    "public_key": "597360260049d1f2371b8ae545974613fd702009fbe00ddebbe9438b835ea69b",
+    "added": "2025-08-15T18:03:47.917478",
+    "fingerprint": "d987de497d00603c"
+  }
+}

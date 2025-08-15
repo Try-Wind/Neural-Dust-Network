@@ -1,0 +1,25 @@
+# Neural Dust Network - Core Dependencies
+# Minimal requirements for decentralized AI learning
+
+# Deep Learning Framework
+torch>=2.0.0
+# torchvision>=0.15.0  # Optional - for MNIST dataset (synthetic data used if unavailable)
+
+# Core Scientific Computing
+numpy>=1.24.0
+
+# Compression for efficient weight deltas
+lz4>=4.0.0
+
+# Cryptography for secure weight sharing
+PyNaCl>=1.5.0
+
+# Optional: Enhanced networking (install only if needed)
+# netifaces>=0.11.0  # For better network interface detection
+# zeroconf>=0.47.0   # For automatic peer discovery
+
+# Development Dependencies (for contributors)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0

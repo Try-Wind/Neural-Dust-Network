@@ -1,0 +1,3 @@
+[console_scripts]
+neural-dust-demo = neural_dust.examples.basic_demo:main
+neural-dust-node = neural_dust.tools.node_cli:main
